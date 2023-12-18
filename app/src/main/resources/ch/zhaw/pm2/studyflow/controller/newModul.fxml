@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="459.0" prefWidth="667.0" stylesheets="@newOverview.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.zhaw.pm2.studyflow.controller.NewWindowController">
+   <HBox prefHeight="459.0" prefWidth="667.0">
+      <VBox prefHeight="459.0" prefWidth="402.0">
+         <padding>
+            <Insets bottom="50.0" left="50.0" right="50.0" top="55.0"/>
+         </padding>
+         <Label styleClass="h2Dark" text="Neues Modul erfassen"/>
+         <Label text="Modultitel">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <TextField/>
+         <Label prefHeight="30.0" prefWidth="301.0" text="Wie sicher fühlst du dich bereits in diesem Modul?"
+                wrapText="true">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <Slider/>
+         <Label text="Credits">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <TextField/>
+         <Label prefHeight="26.0" prefWidth="234.0" text="erfasste Prüfungen:">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <Button mnemonicParsing="false" text="hinzufügen">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Button>
+         <Label prefHeight="91.0" prefWidth="298.0">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <Label prefHeight="90.0" prefWidth="234.0" text="Das ist eine provesorisches Formular ohne Funktionalität"
+                textFill="#ffbf3b" wrapText="true"/>
+      </VBox>
+      <VBox prefHeight="459.0" prefWidth="402.0">
+         <padding>
+            <Insets bottom="50.0" right="50.0" top="55.0"/>
+         </padding>
+         <Label styleClass="h2Dark" text="neue Prüfungen erfassen"/>
+         <Label text="Prüfungstitel">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <TextField/>
+         <Label text="Datum">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <HBox prefHeight="100.0" prefWidth="200.0">
+            <TextField>
+               <HBox.margin>
+                  <Insets right="5.0"/>
+               </HBox.margin>
+            </TextField>
+            <TextField/>
+         </HBox>
+         <Label prefHeight="30.0" prefWidth="301.0" text="Lernziele erfassen" wrapText="true">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <TextArea prefHeight="200.0" prefWidth="200.0"
+                   promptText="Titel; Beschreibung;"/>
+         <Label text="Note">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+         <HBox prefHeight="100.0" prefWidth="200.0">
+            <TextField promptText="6">
+               <HBox.margin>
+                  <Insets right="5.0"/>
+               </HBox.margin>
+            </TextField>
+            <TextField promptText="Gewichtung z.B. 0.8">
+               <font>
+                  <Font size="11.0"/>
+               </font>
+            </TextField>
+         </HBox>
+         <Button mnemonicParsing="false" text="hinzufügen">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Button>
+         <Label prefHeight="91.0" prefWidth="298.0">
+            <VBox.margin>
+               <Insets top="10.0"/>
+            </VBox.margin>
+         </Label>
+      </VBox>
+   </HBox>
+</AnchorPane>

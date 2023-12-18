@@ -1,0 +1,288 @@
+[
+  {
+    "title": "Analysis 2",
+    "credits": 4,
+    "personalProgressEstimate": 0.3,
+    "assessmentList": [
+      {
+        "title": "Schriftliche Prüfung",
+        "isFinished": false,
+        "objectiveList": [
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective4",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective5",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective6",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "AN-2 (Schriftliche Prüfung): Objective7",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T12:00:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 0.0,
+          "weight": 100.0
+        },
+        "start": "2023-05-25T12:00:00+02:00[Europe/Berlin]",
+        "end": "2023-05-25T15:00:00+02:00[Europe/Berlin]"
+      }
+    ]
+  },
+  {
+    "title": "Lineare Algebra 1",
+    "credits": 4,
+    "personalProgressEstimate": 0.5,
+    "assessmentList": [
+      {
+        "title": "Schriftliche Prüfung",
+        "isFinished": false,
+        "objectiveList": [
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective4",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective5",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective6",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "LA-1(Schriftliche Prüfung): Objective7",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-25T09:00:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 0.0,
+          "weight": 100.0
+        },
+        "start": "2023-05-25T09:00:00+02:00[Europe/Berlin]",
+        "end": "2023-05-25T10:00:00+02:00[Europe/Berlin]"
+      }
+    ]
+  },
+  {
+    "title": "Communication Competence 2",
+    "credits": 2,
+    "personalProgressEstimate": 0.8,
+    "assessmentList": [
+      {
+        "title": "Abstract",
+        "isFinished": false,
+        "objectiveList": [
+          {
+            "title": "COM-2 (Abstract): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-05-15T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "COM-2 (Abstract): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DELAYED",
+            "assessmentDate": "2023-05-15T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "COM-2 (Abstract): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-15T09:00:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 0.0,
+          "weight": 20.0
+        },
+        "start": "2023-05-15T09:00:00+02:00[Europe/Berlin]",
+        "end": "2023-05-15T10:00:00+02:00[Europe/Berlin]"
+      },
+      {
+        "title": "Plakat",
+        "isFinished": true,
+        "objectiveList": [
+          {
+            "title": "COM-2 (Plakat): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-04-15T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "COM-2 (Plakat): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-04-15T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "COM-2 (Plakat): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-04-15T09:00:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 5.5,
+          "weight": 20.0
+        },
+        "start": "2023-04-15T09:00:00+02:00[Europe/Berlin]",
+        "end": "2023-04-15T10:00:00+02:00[Europe/Berlin]"
+      },
+      {
+        "title": "Fachartikel",
+        "isFinished": false,
+        "objectiveList": [
+          {
+            "title": "COM-2 (Fachartikel): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-06-01T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "COM-2 (Fachartikel): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-06-01T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "COM-2 (Fachartikel): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-06-01T09:00:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 0.0,
+          "weight": 20.0
+        },
+        "start": "2023-06-01T09:00:00+02:00[Europe/Berlin]",
+        "end": "2023-06-01T10:00:00+02:00[Europe/Berlin]"
+      }
+    ]
+  },
+  {
+    "title": "Theoretische Informatik",
+    "credits": 4,
+    "personalProgressEstimate": 0.1,
+    "assessmentList": [
+      {
+        "title": "Schriftliche Prüfung",
+        "isFinished": false,
+        "objectiveList": [
+          {
+            "title": "THIN-1 (Schriftliche Prüfung): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-05-30T12:30:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "THIN-1 (Schriftliche Prüfung): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DELAYED",
+            "assessmentDate": "2023-05-30T12:30:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "THIN-1 (Schriftliche Prüfung): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "PENDING",
+            "assessmentDate": "2023-05-30T12:30:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 0.0,
+          "weight": 80.0
+        },
+        "start": "2023-05-30T12:30:00+02:00[Europe/Berlin]",
+        "end": "2023-05-30T16:00:00+02:00[Europe/Berlin]"
+      },
+      {
+        "title": "Quiz1",
+        "isFinished": true,
+        "objectiveList": [
+          {
+            "title": "THIN-1 (Quiz1): Objective1",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-04-15T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "THIN-1 (Quiz1): Objective2",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-04-15T09:00:00+02:00[Europe/Berlin]"
+          },
+          {
+            "title": "THIN-1 (Quiz1): Objective3",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "state": "DONE",
+            "assessmentDate": "2023-04-15T09:00:00+02:00[Europe/Berlin]"
+          }
+        ],
+        "grade": {
+          "gradeValue": 1.0,
+          "weight": 20.0
+        },
+        "start": "2023-04-15T09:00:00+02:00[Europe/Berlin]",
+        "end": "2023-04-15T10:00:00+02:00[Europe/Berlin]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+
+.darkGreyBackground {
+    -fx-background-color: #2d2d2d;
+}
+
+.darkIndigoBackground {
+    -fx-background-color: #3C4A7A;
+}
+
+.indigoBackground {
+    -fx-background-color: #7886B9;
+}
+
+.calendarIcon {
+    -fx-background-image: url("img/calendar.png");
+    -fx-background-attachment: fixed;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.dashboardLogo{
+    -fx-background-image: url("img/logo.png");
+    -fx-background-attachment: fixed;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.plusIcon {
+    -fx-background-image: url("img/plus.png");
+    -fx-background-attachment: fixed;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.listIcon {
+    -fx-background-image: url("img/list.png");
+    -fx-background-attachment: fixed;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-margin-bottom: 5px;
+    -fx-width: 20px;
+}

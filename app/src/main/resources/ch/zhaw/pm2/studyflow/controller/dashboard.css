@@ -1,0 +1,90 @@
+
+.darkGreyBackground {
+    -fx-background-color: #2d2d2d;
+}
+
+.darkIndigoBackground {
+    -fx-background-color: #3C4A7A;
+}
+
+.indigoBackground {
+    -fx-background-color: #7886B9;
+}
+
+.h1{
+    font-family: 'Inter';
+    -fx-font-style: normal;
+    -fx-font-weight: 300;
+    -fx-font-size: 24px;
+    -fx-line-height: 29px;
+    -fx-text-fill: white;
+}
+
+.h2{
+    -fx-font-family: 'Inter';
+    -fx-font-style: italic;
+    -fx-font-weight: 400;
+    -fx-font-size: 16px;
+    -fx-line-height: 19px;
+    -fx-text-fill: white;
+}
+
+.h2Dark{
+    -fx-font-family: 'Inter';
+    -fx-font-style: italic;
+    -fx-font-weight: 400;
+    -fx-font-size: 14px;
+    -fx-line-height: 19px;
+    -fx-text-fill: #7886B9;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-margin-bottom: 5px;
+    -fx-width: 20px;
+}
+
+.totalResult{
+    -fx-font-family: 'Inter';
+    -fx-font-style: normal;
+    -fx-font-weight: 900;
+    -fx-font-size: 64px;
+    -fx-line-height: 77px;
+    -fx-text-fill: #2d2d2d;
+}
+
+.totalGrade{
+    -fx-font-family: 'Inter';
+    -fx-font-style: normal;
+    -fx-font-weight: 900;
+    -fx-font-size: 64px;
+    -fx-line-height: 77px;
+    -fx-text-fill: #2d2d2d;
+}
+
+.newPotentialGrade {
+    -fx-font-family: 'Inter';
+    -fx-font-style: normal;
+    -fx-font-weight: 900;
+    -fx-font-size: 40px;
+    -fx-line-height: 48px;
+    -fx-text-fill: #7886B9;
+}
+
+.testDate{
+    -fx-font-family: 'Inter';
+    -fx-font-style: normal;
+    -fx-font-weight: 700;
+    -fx-font-size: 20px;
+    -fx-line-height: 39px;
+    -fx-text-fill: white;
+}
+
+.testDescription{
+    -fx-font-family: 'Inter';
+    -fx-font-weight: 200;
+    -fx-font-size: 14px;
+    -fx-line-height: 19px;
+    -fx-text-fill: white;
+    -fx-background-color: #7886B9;
+}
